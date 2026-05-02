@@ -35,11 +35,15 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SY33DHAWK&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SY33DHAWK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=300" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SY33DHAWK&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SY33DHAWK&theme=tokyonight&cache_seconds=300" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SY33DHAWK&layout=compact&theme=tokyonight&cache_seconds=300" alt="Top Languages" />
 </p>
 
 ---
