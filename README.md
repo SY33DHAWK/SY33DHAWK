@@ -46,7 +46,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/sheikh-syeed-ul-haque-368514222">
+  <a href="www.linkedin.com/in/sy33dhawk">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
