@@ -46,7 +46,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/SY33DHAWK/www.linkedin.com/in/sy33dhawk">
+  <a href="https://www.linkedin.com/in/sy33dhawk">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
